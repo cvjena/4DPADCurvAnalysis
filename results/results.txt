@@ -1,0 +1,5 @@
+flexible mask sigma = 0.169951
+flexible mask extreme sigma = 0.334011
+static mask moving: sigma = 0.0272876
+static mask sigma = 0.0173463
+genuine sigma = 0.435025
